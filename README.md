@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my side projects using TypeScript, JavaScript and React**
 
-- 🌱 I’m currently learning **about Networking and MERN stack**
+- 🌱 I’m currently learning **about Cloud Computing and MERN stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
