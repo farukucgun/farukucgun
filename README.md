@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukucgun&label=Profile%20views&color=0e75b6&style=flat" alt="farukucgun" /> </p>
 
-- 🔭 I’m currently working on **my side projects using TypeScript, JavaScript and React**
+- 🔭 I’m currently working on **a VS Code extension using Svelte and TypeScript**
 
-- 🌱 I’m currently learning **about Cloud Computing and MERN stack**
+- 🌱 I’m currently learning **about VS Code extension development and DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
