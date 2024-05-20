@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faruk Uçgun</h1>
-<h3 align="center">Enthusiastic computer science student focused on Full-stack development and DevOps</h3>
+<h3 align="center">Enthusiastic senior computer science student focused on Backend development and DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukucgun&label=Profile%20views&color=0e75b6&style=flat" alt="farukucgun" /> </p>
 
